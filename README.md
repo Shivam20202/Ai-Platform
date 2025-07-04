@@ -1,3 +1,4 @@
+
 <div>
   <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
   <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
@@ -9,6 +10,10 @@
 <div align="center">
   This portfolio showcases my skills, projects, and development journey using React.js, Tailwind CSS, and Vite. Built with performance and smooth UI in mind, inspired by modern design trends.
 </div>
+
+## 📸 Project Preview
+
+![Brainwave UI Preview](./Screenshot%20\(207\).png)
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
@@ -65,3 +70,4 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) to view the portfolio in your browser.
+
